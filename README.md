@@ -18,6 +18,13 @@ A responsive news web application that fetches and displays up-to-date news head
 - NewsAPI.org
 
 
+## 📷 Screenshots
+
+### 💻 Desktop View  
+![Desktop View](./assets/screenshot1.png)
+
+### 📱 Mobile View  
+![Mobile View](./assets/screenshot2.PNG)
 
 
 
