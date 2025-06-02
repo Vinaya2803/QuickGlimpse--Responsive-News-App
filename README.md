@@ -17,13 +17,6 @@ A responsive news web application that fetches and displays up-to-date news head
 - JavaScript (ES6)
 - NewsAPI.org
 
-## 📷 Screenshots
-
-### 🖼️ Homepage View
-![Homepage](./assets/screenshot1.png)
-
-### 📱 Responsive View
-![Mobile](./assets/screenshot2.png)
 
 
 
